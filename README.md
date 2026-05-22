@@ -1,7 +1,7 @@
 # Student-Inventory-Management-System
 
 
-A simple terminal-based Inventory Management System built using Python and MySQL. This project was created to practice OOP concepts, database integration, and CRUD operations through a practical use case.
+A simple terminal based Inventory Management System built using Python and MySQL. This project was built to understand how inventory and stock management systems work using Python, MySQL, and object oriented programming concepts.
 
 The system allows users to manage products, suppliers, stock quantity, and sales records through a command-line interface.
 
